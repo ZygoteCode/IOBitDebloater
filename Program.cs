@@ -12,7 +12,8 @@ public class Program
         "PPUninstaller",
         "CareScan",
         "Scheduler",
-        "ScanWinUpd"
+        "ScanWinUpd",
+        "ProductStat3"
     };
 
     public static void Main()
