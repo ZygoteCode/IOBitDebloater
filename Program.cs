@@ -18,7 +18,7 @@ public class Program
 
     public static void Main()
     {
-        Console.Title = "IOBitDebloater | Made by https://github.com/GabryB03/";
+        Console.Title = "IOBitDebloater | Made by https://github.com/ZygoteCode/";
 
         if (!(new WindowsPrincipal(WindowsIdentity.GetCurrent())).IsInRole(WindowsBuiltInRole.Administrator))
         {
